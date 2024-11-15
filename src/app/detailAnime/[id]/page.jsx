@@ -11,7 +11,6 @@ const Page = async ({ params }) => {
             <BackButton />
             <div className='m-2'>
                 <h1>Halo ini halaman detail anime</h1>
-                {/* <Image /> */}
             </div>
         </div>
     )
